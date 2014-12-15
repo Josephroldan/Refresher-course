@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 18, 2014, 8:59:16 AM
+    Author     : Student
+*/
+body{
+
+/* this helps use css and bootstrap to create boorders */
+}
+div{
+    border-style: solid;
+    background-color: lightgray;
+    font-size: 20px;
+   text-color:white;
+    padding:40px;
+    border: 0;
+ /* this gives us the padding and style we want for the div borders and bootstrap*/ 
+}
+.container {
+    
+       padding: 100px;
+       padding-left:100px; 
+       padding-right:100px ;    
+}
+/*this puts in padding and color for a specific div tag*/
+.row{
+color: black    ;
+borders:0;
+}
+.col-xs-10{
+ color:black
+}
+.col-xs-2{
+   borders:0; 
+    
+}
+    .list-group-item{
+      border:0;
+       margin-top:   25px;
+       margin-bottom: 25px;
+    }
+    .jumbotron{
+        background-image: url(img/Rock-music.jpg);
+            color: black
+    }
+    p {
+        color: black
+    }
+ 
