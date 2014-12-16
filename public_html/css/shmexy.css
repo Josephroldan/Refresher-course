@@ -8,12 +8,13 @@ and open the template in the editor.
     Author     : Student
 */
 body{
-
+background-image: url(https://pbs.twimg.com/profile_images/2475424155/kibrrqt4hj4a59smvvlm.jpeg);
+background-size: 1500px;
+   
 /* this helps use css and bootstrap to create boorders */
 }
 div{
     border-style: solid;
-    background-color: lightgray;
     font-size: 20px;
    text-color:white;
     padding:40px;
@@ -28,11 +29,11 @@ div{
 }
 /*this puts in padding and color for a specific div tag*/
 .row{
-color: black    ;
+color: white    ;
 borders:0;
 }
 .col-xs-10{
- color:black
+ color:white
 }
 .col-xs-2{
    borders:0; 
